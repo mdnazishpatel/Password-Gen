@@ -10,8 +10,6 @@ A **secure, customizable, and user-friendly** password generator built with **Re
 ✅ Responsive and **modern UI**  
 ✅ Built using **React.js with hooks**
 
-## 🎥 Demo
-[Live Demo](#) (If deployed, add your demo link here)
 
 ## 🛠️ Installation & Setup
 
@@ -43,8 +41,6 @@ The production build will be available in the **/build** folder.
 - **Tailwind CSS** (or your chosen CSS framework)
 - **Clipboard API** (for copy functionality)
 
-## 📸 Screenshots
-(Add screenshots of your UI here)
 
 ## 🤝 Contributing
 Feel free to contribute! Fork the repo and submit a PR.
