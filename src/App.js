@@ -1,8 +1,7 @@
-import logo from './logo.svg';
 import './App.css';
 import { useState } from 'react';
 import { LC, NC, SC, UC } from './data/PassChar';
-import { eventWrapper } from '@testing-library/user-event/dist/utils';
+
 
 
 
